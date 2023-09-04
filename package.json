@@ -1,0 +1,16 @@
+{
+  "name": "@themythicalcoder/json-to-formdata",
+  "version": "1.0.0",
+  "description": "This package allows you to convert the json file to formdata",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "json",
+    "formdata",
+    "converter"
+  ],
+  "author": "Rishikesh R",
+  "license": "ISC"
+}
